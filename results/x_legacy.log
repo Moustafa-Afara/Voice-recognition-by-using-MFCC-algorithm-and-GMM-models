@@ -1,0 +1,8 @@
+seed 0: 6/93 correct = 0.065  (31 speakers)
+seed 1: 7/93 correct = 0.075  (31 speakers)
+/usr/local/lib/python3.11/dist-packages/sklearn/mixture/_base.py:293: ConvergenceWarning: Best performing initialization did not converge. Try different init parameters, or increase max_iter, tol, or check for degenerate data.
+  warnings.warn(
+seed 2: 4/93 correct = 0.043  (31 speakers)
+seed 3: 9/93 correct = 0.097  (31 speakers)
+seed 4: 6/93 correct = 0.065  (31 speakers)
+method=legacy cmn=False cross_session=True sr=8000 train/test per speaker=7/3: accuracy 0.069 ± 0.020

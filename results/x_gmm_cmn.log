@@ -1,0 +1,6 @@
+seed 0: 65/93 correct = 0.699  (31 speakers)
+seed 1: 77/93 correct = 0.828  (31 speakers)
+seed 2: 70/93 correct = 0.753  (31 speakers)
+seed 3: 64/93 correct = 0.688  (31 speakers)
+seed 4: 77/93 correct = 0.828  (31 speakers)
+method=gmm cmn=True cross_session=True sr=8000 train/test per speaker=7/3: accuracy 0.759 ± 0.067

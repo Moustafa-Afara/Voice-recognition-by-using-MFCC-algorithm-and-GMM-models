@@ -1,0 +1,6 @@
+seed 0: 113/120 correct = 0.942  (40 speakers)
+seed 1: 113/120 correct = 0.942  (40 speakers)
+seed 2: 115/120 correct = 0.958  (40 speakers)
+seed 3: 111/120 correct = 0.925  (40 speakers)
+seed 4: 113/120 correct = 0.942  (40 speakers)
+method=gmm cmn=True sr=8000 train/test per speaker=7/3: accuracy 0.942 ± 0.012

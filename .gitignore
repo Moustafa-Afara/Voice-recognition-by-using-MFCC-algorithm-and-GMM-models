@@ -1,0 +1,11 @@
+# audio data is never committed (see README: data)
+*.wav
+*.flac
+LibriSpeech/
+TIMIT/
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store

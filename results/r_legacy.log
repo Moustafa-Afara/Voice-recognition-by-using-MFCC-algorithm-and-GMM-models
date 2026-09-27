@@ -1,0 +1,6 @@
+seed 0: 4/120 correct = 0.033  (40 speakers)
+seed 1: 5/120 correct = 0.042  (40 speakers)
+seed 2: 5/120 correct = 0.042  (40 speakers)
+seed 3: 4/120 correct = 0.033  (40 speakers)
+seed 4: 5/120 correct = 0.042  (40 speakers)
+method=legacy cmn=False sr=8000 train/test per speaker=7/3: accuracy 0.038 ± 0.005
